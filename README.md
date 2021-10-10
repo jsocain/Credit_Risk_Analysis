@@ -5,7 +5,7 @@ Using machine learning and credit card credit dataset, I oversampled the data us
 
 ## Results: 
 
-![Algorithm_Table](images/algorithm_table2.png)
+![Algorithm_Table](images/algorith_table2.png)
 
 - none of the resampling models used performed very well 
 - the under sampling model, ClusterCentroids, performed the worst of all models tested
